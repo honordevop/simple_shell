@@ -1,7 +1,7 @@
 /*
  * File: split.c
- * Auth: Alex Yu
- *       Brennan D Baraban
+ * Auth: Ogunlade Stephen O.
+ *       Jesubukade Ajakaye
  */
 
 #include "shell.h"
